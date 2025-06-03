@@ -32,7 +32,7 @@
 
 ## 🚀 Featured Projects
 
-### 🍽️ QR Menu App  
+### 🍽️ QR Menu App Live
 > A responsive QR-based digital menu system for restaurants.  
 > Built with HTML5 / CSS3 / JS / MVC5 / ASP.NET / C# / SQL-SERVER
 
