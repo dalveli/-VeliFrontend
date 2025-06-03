@@ -45,7 +45,7 @@
 > Simple to-do list with local storage support.  
 > Built with Vanilla JS and CSS
 
-🔗 [Live Demo](https://github.com/dalveli/web-yeni.git)  
+🔗 [Live Demo](https://dalveli.github.io/web-yeni/)
 🔗 [GitHub Repo](https://github.com/dalveli/web-yeni)
 
 ---
