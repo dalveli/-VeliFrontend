@@ -58,7 +58,7 @@
   <a href="https://www.linkedin.com/in/veli-dal-929a8a297" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge" />
   </a>
-  <a href="mailto:velidal.dev@gmail.com">
+  <a href="mailto:veliidall24@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail&style=for-the-badge" />
   </a>
 </p>
