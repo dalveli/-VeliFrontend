@@ -37,7 +37,7 @@
 > Built with HTML5 / CSS3 / JS / MVC5 / ASP.NET / C# / SQL-SERVER
 
 🔗 [Live Demo](https://orientexpresskebapmenu.com/)  
-🔗 [GitHub Repo](https://github.com/velidal/qr-menu)
+🔗 [GitHub Repo](https://github.com/dalveli/-VeliFrontend)
 
 ---
 
@@ -45,8 +45,8 @@
 > Simple to-do list with local storage support.  
 > Built with Vanilla JS and CSS
 
-🔗 [Live Demo]((https://github.com/dalveli/web-yeni.git))  
-🔗 [GitHub Repo]((https://github.com/dalveli/web-yeni))
+🔗 [Live Demo](https://github.com/dalveli/web-yeni.git)  
+🔗 [GitHub Repo](https://github.com/dalveli/web-yeni)
 
 ---
 
