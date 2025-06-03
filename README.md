@@ -45,8 +45,8 @@
 > Simple to-do list with local storage support.  
 > Built with Vanilla JS and CSS
 
-🔗 [Live Demo](https://yourtodo.vercel.app)  
-🔗 [GitHub Repo](https://github.com/velidal/todo-app)
+🔗 [Live Demo]((https://github.com/dalveli/web-yeni.git))  
+🔗 [GitHub Repo]((https://github.com/dalveli/web-yeni))
 
 ---
 
