@@ -45,11 +45,11 @@
 > Simple to-do list with local storage support.  
 > Built with Vanilla JS and CSS
 
-🔗 [Live Demo1](https://dalveli.github.io/web-yeni/)
-🔗 [GitHub Repo1](https://github.com/dalveli/web-yeni)
+🔗 [Live Demo1](https://dalveli.github.io/web-menu1/)
+🔗 [GitHub Repo1](https://github.com/dalveli/web-menu1)
 
-🔗 [Live Demo2](https://dalveli.github.io/web-menu/)
-🔗 [GitHub Repo2](https://github.com/dalveli/web-menu)
+🔗 [Live Demo2](https://dalveli.github.io/web-menu2/)
+🔗 [GitHub Repo2](https://github.com/dalveli/web-menu2)
 
 ---
 
