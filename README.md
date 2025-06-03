@@ -8,7 +8,7 @@
 - 🌱 Currently learning **TypeScript** and **Next.js**
 - 👨‍💻 Building real-world React projects
 - 🌍 Living in Kraków, Poland
-- 📬 Reach me at: **velidal.dev@gmail.com**
+- 📬 Reach me at: **veliidall24@gmail.com**
 
 ---
 
@@ -28,9 +28,9 @@
 
 ### 🍽️ QR Menu App  
 > A responsive QR-based digital menu system for restaurants.  
-> Built with React, Tailwind CSS, Firebase
+> Built with HTML5 / CSS3 / JS / MVC5 / ASP.NET / C# / SQL-SERVER
 
-🔗 [Live Demo](https://qrmenu.vercel.app)  
+🔗 [Live Demo](https://orientexpresskebapmenu.com/)  
 🔗 [GitHub Repo](https://github.com/velidal/qr-menu)
 
 ---
